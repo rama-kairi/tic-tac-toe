@@ -38,3 +38,9 @@ func printBoard() {
 		fmt.Println("-----------")
 	}
 }
+
+// A function to take input from the user and update the board
+
+// Check if the board is full, Meaning no more moves can be made and its draw
+
+// Check if the game is won by either player
